@@ -9,7 +9,8 @@ Expérience
 ============
 GSoft
 ------------
-![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "An exemplary image")
+
+![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
@@ -25,23 +26,30 @@ Expériences
 -	Établir une vision, mission et des OKR (objectif - résultats-clés)
 -	Développement d'une culture organisationnelle et départementale
 o	Podcast Culture Inc. #11 : Hypercroissance
-2011-2017 (6 ans) Développeur 
--	Lead et développeur de plusieurs projet
+### 2011-2017 (6 ans) **Développeur** ###
+-	Lead et développeur de plusieurs projet:
 >-	Intranet de Radio-Canada
 >-	Intranet de la Co-op féréré
 >-	Site web de la [ville de Laval](https://www.laval.ca/)
 >-	Site web de la CHAD
 >-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
+Nmedia
+------------
+![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
+
+### 2010-2011 (1 an) **Développeur / Analyste** ###
+- Concu et développer un [logicel d'estimation](https://www.nmedia.ca/en-ca/achievements/armatures-bois-francs) pour Armature Bois-Francs
+> Le projet remporta un [OCTAS](https://www.nmedia.ca/articles/armatures-bois-francs-nmedia-remportent-octas) 3 ans plus tard
 ***
 
 Apprentissage
 -------------
 Ma façon d'apprendre est beaucoup par la pratique. J'ai beaucoup appris des expériences suivantes:
-- Organisation et participation au [CultureFest](https://mtlnewtech.medium.com/culturefest-montreal-04-12-17-7dd015d0d9ea) (2017+2018)
-- Co-éditeur en chef du [GSoft Tech Blog](https://medium.com/gsoft-tech)
 - Organisation de la [GHouse](https://www.lesaffaires.com/blogues/simon-de-baene/j-ai-ouvert-un-bureau-au-bout-du-monde-en-laissant-les-employes-choisir-ou-voici-pourquoi/592203) à Barcelone
+- Organisation et participation au [CultureFest](https://mtlnewtech.medium.com/culturefest-montreal-04-12-17-7dd015d0d9ea) (2017+2018)
 - Création de nouveau produit [Snooz.it](https://drdeteck.github.io/snoozit-landing-page/) (discontinué)
+- Co-éditeur en chef du [GSoft Tech Blog](https://medium.com/gsoft-tech)
 
 ### Quelques livres ###
 Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
@@ -49,6 +57,13 @@ Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
 - [Managing for Happiness](https://jurgenappelo.com/managing-for-happiness/) par Jurgen Appelo
 - [Radical Candor](https://www.radicalcandor.com/) par Kim Scott
 
+Éducation
+============
+Université de Sherbrooke
+------------
+![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
+
+### 2006-2010 (4 ans) **Bacc** ###
 
 ***
 ***
