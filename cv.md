@@ -7,7 +7,8 @@ Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGa
 
 Expérience
 ============
-2017- (4 ans) Gestionnaire d’équipe et co-Directeur (interim)
+###GSoft###
+2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)**
 Responsabilités
 -	Gestion du changement
 -	Direction stratégique du développement logiciel
@@ -22,12 +23,12 @@ Expériences
 -	Développement d'une culture organisationnelle et départementale
 o	Podcast Culture Inc. #11 : Hypercroissance
 2011-2017 (6 ans) Développeur 
--	Lead développeur de plusieurs projet
+-	Lead et développeur de plusieurs projet
 >-	Intranet de Radio-Canada
 >-	Intranet de la Co-op féréré
->-	Site web de la ville de Laval
+>-	Site web de la [ville de Laval](https://www.laval.ca/)
 >-	Site web de la CHAD
->-	Site web des Parcs du Nunavik
+>-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
 
 Apprentissage
