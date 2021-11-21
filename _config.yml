@@ -5,7 +5,7 @@ description: leader | gestionnaire
 
 baseurl: /me #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: phil@philippelavoie.com#
+email: phil@philippelavoie.com
 
 
 highlighter: rouge
