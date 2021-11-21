@@ -7,7 +7,8 @@ Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGa
 
 Expérience
 ============
-###GSoft###
+### GSoft ###
+![example image](/assets/images/g100.jpg?w=500&h=500&fit=crop "An exemplary image")
 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)**
 Responsabilités
 -	Gestion du changement
