@@ -7,10 +7,10 @@ Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGa
 
 Expérience
 ============
+
 GSoft
 ------------
-
-![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
+![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo")
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
@@ -36,11 +36,12 @@ o	Podcast Culture Inc. #11 : Hypercroissance
 
 Nmedia
 ------------
-![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
+![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo")
 
 ### 2010-2011 (1 an) **Développeur / Analyste** ###
 - Concu et développer un [logicel d'estimation](https://www.nmedia.ca/en-ca/achievements/armatures-bois-francs) pour Armature Bois-Francs
 > Le projet remporta un [OCTAS](https://www.nmedia.ca/articles/armatures-bois-francs-nmedia-remportent-octas) 3 ans plus tard
+
 ***
 
 Apprentissage
@@ -59,11 +60,20 @@ Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
 
 Éducation
 ============
+
 Université de Sherbrooke
 ------------
-![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "GSoft Logo")
+![UdeS](/me/assets/images/udes50.jpg "UdeS Logo")
 
-### 2006-2010 (4 ans) **Bacc** ###
+### 2006-2010 (4 ans) **B. Ing., Génie Informatique** ###
+- Programme Co-op comprenant 5 stages:
+>- Développeur - Safe Software (Vancouver) - été 2010
+>- Développeur - Xandros/Bridgeways (Ottawa) - automne 2008 et 2009
+>- Développeur - CHUS/Gamma Medica - été 2007/hiver 2008
+- Président de l'AGEG (Association Générale des Étudiant en Génie) - hiver 2009
+- Gagnant des Jeux de Génie 2010 (Conception d'un [robot](https://www.youtube.com/watch?v=Z3ERyYSB9WI))
+- Gagnant de la compétition Canadienne d'ingénierie (Conception senior) - hiver 2011
+
 
 ***
 ***
