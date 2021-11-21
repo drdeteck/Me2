@@ -9,7 +9,7 @@ Expérience
 ============
 GSoft
 ------------
-![example image](/assets/images/g100.jpg?w=500&h=500&fit=crop "An exemplary image")
+![example image](/me/assets/images/g100.jpg?w=500&h=500&fit=crop "An exemplary image")
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
