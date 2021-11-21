@@ -19,14 +19,17 @@ Responsabilités
 -	Coordination du recrutement
 -	Gestion de la performance, des responsabilités et des attentes des développeurs 
 -	Gestion de la sous-performance
+
 Expériences
 -	Élaboration d’un programme de recrutement de relève
 -	Responsable du programme d'innovation GHouse
 -	Recherche et développement sur l'évolution du programme de la gestion de la performance 
 -	Établir une vision, mission et des OKR (objectif - résultats-clés)
 -	Développement d'une culture organisationnelle et départementale
-o	Podcast Culture Inc. #11 : Hypercroissance
+
+
 ### 2011-2017 (6 ans) **Développeur** ###
+
 -	Lead et développeur de plusieurs projet:
 >-	Intranet de Radio-Canada
 >-	Intranet de la Co-op féréré
@@ -50,6 +53,7 @@ Ma façon d'apprendre est beaucoup par la pratique. J'ai beaucoup appris des exp
 - Organisation de la [GHouse](https://www.lesaffaires.com/blogues/simon-de-baene/j-ai-ouvert-un-bureau-au-bout-du-monde-en-laissant-les-employes-choisir-ou-voici-pourquoi/592203) à Barcelone
 - Organisation et participation au [CultureFest](https://mtlnewtech.medium.com/culturefest-montreal-04-12-17-7dd015d0d9ea) (2017+2018)
 - Création de nouveau produit [Snooz.it](https://drdeteck.github.io/snoozit-landing-page/) (discontinué)
+- Participation à la balado Culture Inc. - [Épisode sur l'hypercroissance](http://cultureincpodcast.com/index.php/2019/12/10/11-culture-et-hypercroissance-philippe-lavoie/).
 - Co-éditeur en chef du [GSoft Tech Blog](https://medium.com/gsoft-tech)
 
 ### Quelques livres ###
