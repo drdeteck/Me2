@@ -7,9 +7,11 @@ Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGa
 
 Expérience
 ============
-### GSoft ###
+GSoft
+------------
 ![example image](/assets/images/g100.jpg?w=500&h=500&fit=crop "An exemplary image")
-2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)**
+
+### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
 -	Gestion du changement
 -	Direction stratégique du développement logiciel
@@ -31,6 +33,7 @@ o	Podcast Culture Inc. #11 : Hypercroissance
 >-	Site web de la CHAD
 >-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
+***
 
 Apprentissage
 -------------
@@ -47,6 +50,8 @@ Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
 - [Radical Candor](https://www.radicalcandor.com/) par Kim Scott
 
 
+***
+***
 
 Paragraphs are separated by a blank line.
 
