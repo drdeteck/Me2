@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: phil1.jpg
+  image: phil2.jpg
 published: true
 ---
 
