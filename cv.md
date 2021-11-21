@@ -74,9 +74,9 @@ Université de Sherbrooke
 >- Développeur - Safe Software (Vancouver) - été 2010
 >- Développeur - Xandros/Bridgeways (Ottawa) - automne 2008 et 2009
 >- Développeur - CHUS/Gamma Medica - été 2007/hiver 2008
-- Président de l'AGEG (Association Générale des Étudiant en Génie) - hiver 2009
-- Gagnant des Jeux de Génie 2010 (Conception d'un [robot](https://www.youtube.com/watch?v=Z3ERyYSB9WI))
-- Gagnant de la compétition Canadienne d'ingénierie (Conception senior) - hiver 2011
+- Président de l'[Association de Génie](https://www.ageg.ca/) (AGEG) - hiver 2009
+- Grand Gagnant des Jeux de Génie 2010 - Compétition [robotique](https://www.youtube.com/watch?v=Z3ERyYSB9WI)
+- Gagnant de la compétition Canadienne d'ingénierie - hiver 2011
 
 
 ***
