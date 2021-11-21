@@ -1,11 +1,11 @@
 ### your site title here
 
 title: Philippe Lavoie
-description: subtitle | affiliations | motto
+description: leader | gestionnaire
 
 baseurl: /me #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: phil@philippelavoie.com#
 
 
 highlighter: rouge
@@ -17,18 +17,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "https://www.linkedin.com/in/philippelavoie/"
+github: "https://github.com/drdeteck/"
 
 highlighter: rouge
 markdown: kramdown
 
 # Tracker
-analytics:
+analytics: #todo
 
 #optimization -> compress.html
 compress_html:
