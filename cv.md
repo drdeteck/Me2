@@ -10,6 +10,11 @@ Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGa
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 
+![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo")
+GSoft
+------------
+
+### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 
 Expérience
 ============
