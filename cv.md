@@ -15,17 +15,18 @@ GSoft
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
 -	Gestion du changement
--	Direction stratégique du développement logiciel
 -	Coordination du recrutement
--	Gestion de la performance, des responsabilités et des attentes des développeurs 
 -	Gestion de la sous-performance
+-	Direction stratégique du développement logiciel
+-	Gestion de la performance et des responsabilités des développeurs 
+
 
 Expériences
--	Élaboration d’un programme de recrutement de relève
 -	Responsable du programme d'innovation GHouse
--	Recherche et développement sur l'évolution du programme de la gestion de la performance 
+-	Élaborer un programme de recrutement de relève
+-	Développer le programme de la gestion de la performance 
 -	Établir une vision, mission et des OKR (objectif - résultats-clés)
--	Développement d'une culture organisationnelle et départementale
+-	Participer au développement d'une culture organisationnelle et départementale
 
 
 ### 2011-2017 (6 ans) **Développeur** ###
