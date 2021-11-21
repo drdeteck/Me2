@@ -5,24 +5,11 @@ description: leader | gestionnaire
 ---
 Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGate ait les coudées franches pour se réaliser, livrer des produits de classe mondiale et grandir ensemble. J'ai toujours aimé m'impliquer, organiser des événements et rebrasser les façons de faire, parce que je pense qu'on gagne toujours à essayer de faire mieux. En plus de  10 ans chez GSoft, j'ai appris qu'en écoutant mes collègues attentivement, je pouvais proposer des changements pertinents qui ont un réel impact sur notre quotidien au travail.
 
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo") -- GSoft
-------------
-
-### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
-
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo")
-
-GSoft
-------------
-
-### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
-
 Expérience
 ============
 
-GSoft
+![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo") -- GSoft
 ------------
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo")
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
 Responsabilités
@@ -50,9 +37,8 @@ Expériences
 >-	Site web de la CHAD
 >-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
-Nmedia
+![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo") -- Nmedia
 ------------
-![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo")
 
 ### 2010-2011 (1 an) **Développeur / Analyste** ###
 - Concu et développer un [logicel d'estimation](https://www.nmedia.ca/en-ca/achievements/armatures-bois-francs) pour Armature Bois-Francs
@@ -78,9 +64,8 @@ Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
 Éducation
 ============
 
-Université de Sherbrooke
+![UdeS](/me/assets/images/udes50.jpg "UdeS Logo") -- Université de Sherbrooke
 ------------
-![UdeS](/me/assets/images/udes50.jpg "UdeS Logo")
 
 ### 2006-2010 (4 ans) **B. Ing., Génie Informatique** ###
 - Programme Co-op comprenant 5 stages:
