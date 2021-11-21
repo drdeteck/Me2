@@ -1,12 +1,50 @@
 ---
 layout: post
 title: CV
-description: description of the short project which is long enough
+description: leader | gestionnaire
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGate ait les coudées franches pour se réaliser, livrer des produits de classe mondiale et grandir ensemble. J'ai toujours aimé m'impliquer, organiser des événements et rebrasser les façons de faire, parce que je pense qu'on gagne toujours à essayer de faire mieux. En plus de 9 ans chez GSoft, j'ai appris qu'en écoutant mes collègues attentivement, je pouvais proposer des changements pertinents qui ont un réel impact sur notre quotidien au travail.
 
-H1 Header
+Expérience
 ============
+2017- (4 ans) Gestionnaire d’équipe et co-Directeur (interim)
+Responsabilités
+-	Gestion du changement
+-	Direction stratégique du développement logiciel
+-	Coordination du recrutement
+-	Gestion de la performance, des responsabilités et des attentes des développeurs 
+-	Gestion de la sous-performance
+Expériences
+-	Élaboration d’un programme de recrutement de relève
+-	Responsable du programme d'innovation GHouse
+-	Recherche et développement sur l'évolution du programme de la gestion de la performance 
+-	Établir une vision, mission et des OKR (objectif - résultats-clés)
+-	Développement d'une culture organisationnelle et départementale
+o	Podcast Culture Inc. #11 : Hypercroissance
+2011-2017 (6 ans) Développeur 
+-	Lead développeur de plusieurs projet
+>-	Intranet de Radio-Canada
+>-	Intranet de la Co-op féréré
+>-	Site web de la ville de Laval
+>-	Site web de la CHAD
+>-	Site web des Parcs du Nunavik
+
+
+Apprentissage
+-------------
+Ma façon d'apprendre est beaucoup par la pratique. J'ai beaucoup appris des expériences suivantes:
+- Organisation et participation au [CultureFest](https://mtlnewtech.medium.com/culturefest-montreal-04-12-17-7dd015d0d9ea) (2017+2018)
+- Co-éditeur en chef du [GSoft Tech Blog](https://medium.com/gsoft-tech)
+- Organisation de la [GHouse](https://www.lesaffaires.com/blogues/simon-de-baene/j-ai-ouvert-un-bureau-au-bout-du-monde-en-laissant-les-employes-choisir-ou-voici-pourquoi/592203) à Barcelone
+- Création de nouveau produit [Snooz.it](https://drdeteck.github.io/snoozit-landing-page/) (discontinué)
+
+### Quelques livres ###
+Je ne lis pas beaucoup, mais ces ouvrages m'ont marqué:
+- [Resilient Management](https://resilient-management.com/) par Lara Hogan
+- [Managing for Happiness](https://jurgenappelo.com/managing-for-happiness/) par Jurgen Appelo
+- [Radical Candor](https://www.radicalcandor.com/) par Kim Scott
+
+
 
 Paragraphs are separated by a blank line.
 
