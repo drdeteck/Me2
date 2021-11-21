@@ -5,7 +5,7 @@ description: leader | gestionnaire
 ---
 Je m'investis à fond chaque jour pour que l'équipe de développeurs de ShareGate ait les coudées franches pour se réaliser, livrer des produits de classe mondiale et grandir ensemble. J'ai toujours aimé m'impliquer, organiser des événements et rebrasser les façons de faire, parce que je pense qu'on gagne toujours à essayer de faire mieux. En plus de  10 ans chez GSoft, j'ai appris qu'en écoutant mes collègues attentivement, je pouvais proposer des changements pertinents qui ont un réel impact sur notre quotidien au travail.
 
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo") GSoft
+![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo") -- GSoft
 ------------
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
