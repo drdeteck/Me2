@@ -36,7 +36,7 @@ Expériences
 >-	Site web de la CHAD
 >-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
-![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo") -- Nmedia
+![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo"){:style="float: right;"}Nmedia
 ------------
 
 ### 2010-2011 (1 an) **Développeur / Analyste** ###
@@ -63,7 +63,7 @@ Les ouvrages qui m'ont marqués:
 Éducation
 ============
 
-![UdeS](/me/assets/images/udes50.jpg "UdeS Logo") -- Université de Sherbrooke
+![UdeS](/me/assets/images/udes50.jpg "UdeS Logo"){:style="float: right;"}Université de Sherbrooke
 ------------
 
 ### 2006-2010 (4 ans) **B. Ing., Génie Informatique** ###
