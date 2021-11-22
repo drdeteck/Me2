@@ -7,7 +7,7 @@ description: leader | gestionnaire
 Expérience
 ============
 
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"} -- GSoft
+![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"}GSoft
 ------------
 
 ### 2017- (4 ans) **Gestionnaire d’équipe et co-Directeur (interim)** ###
