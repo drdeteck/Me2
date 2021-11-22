@@ -7,6 +7,9 @@ description: leader | gestionnaire
 Expérience
 ============
 
+>Expérience
+>============
+
 ![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"}GSoft
 ------------
 
