@@ -11,7 +11,7 @@ So me and my teammates got this awesome idea to create a bot that will recap you
 
 On the morning, I was looking in my room to see if I missed something for the 24h coding marathon. I saw my **Taz** sitting there, what a great mascot it will be !
 
-![Taz Mascot](/me/assets/images/taz-pic1.jpg)
+![Taz Mascot](/me/assets/images/taz-pic1.jpeg)
 
 Here was the plan :
 
