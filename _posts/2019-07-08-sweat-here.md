@@ -3,7 +3,7 @@ layout: post
 title: Sweat Here - Hackathon project
 ---
 
-Last March, [Amilia](https://www.amilia.com/) and [Decathlon](https://www.decathlon.ca/), the outdoor shop, organised an Hackathon about making sports more accessible through coding. GSoft was there represented by 2 teams of dev, coach, data scientists and business professionnals. Our team was formed of :
+In March 2019, [Amilia](https://www.amilia.com/) and [Decathlon](https://www.decathlon.ca/), the outdoor shop, organised an Hackathon about making sports more accessible through coding. GSoft was there represented by 2 teams of dev, coach, data scientists and business professionnals. Our team was formed of :
 - Yohan Belval
 - Étienne Labrie-Dion
 - Everic Lauzière
