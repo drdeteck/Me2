@@ -17,8 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://www.linkedin.com/in/philippelavoie/"
-github: "https://github.com/drdeteck/"
+linkedin: "philippelavoie"
+github: "drdeteck"
 
 highlighter: rouge
 markdown: kramdown
