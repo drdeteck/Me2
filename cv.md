@@ -7,7 +7,7 @@ description: leader | gestionnaire
 -- Expérience --
 ================
 
-![GSoft Logo](/me/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"}GSoft
+![GSoft Logo](/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"}GSoft
 ------------
 
 ### 2017-2021 (4 ans) **Gestionnaire d’équipe et codirecteur interim** ###
@@ -36,7 +36,7 @@ Expériences
 >-	Site web de la CHAD
 >-	Site web des [Parcs du Nunavik](https://www.nunavikparks.ca/)
 
-![Nmedia Logo](/me/assets/images/nms50.jpg "Nmedia Logo"){:style="float: right;"}Nmedia
+![Nmedia Logo](/assets/images/nms50.jpg "Nmedia Logo"){:style="float: right;"}Nmedia
 ------------
 
 ### 2010-2011 (1 an) **Développeur / Analyste** ###
@@ -61,7 +61,7 @@ Quelques projets qui m'ont beaucoup appris :
 Éducation
 ============
 
-![UdeS](/me/assets/images/udes50.jpg "UdeS Logo"){:style="float: right;"}Université de Sherbrooke
+![UdeS](/assets/images/udes50.jpg "UdeS Logo"){:style="float: right;"}Université de Sherbrooke
 ------------
 
 ### 2006-2010 (4 ans) **B. Ing., Génie Informatique** ###
