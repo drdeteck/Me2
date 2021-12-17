@@ -11,7 +11,7 @@ So me and my teammates got this awesome idea to create a bot that will recap you
 
 On the morning, I was looking in my room to see if I missed something for the 24h coding marathon. I saw my **Taz** sitting there, what a great mascot it will be !
 
-![Taz Mascot](/me/assets/images/taz-pic1.jpeg)
+![Taz Mascot](/assets/images/taz-pic1.jpeg)
 
 Here was the plan :
 
@@ -28,6 +28,6 @@ If we take a look at the evaluation grid, more than the half of the score is bas
 
 Overall, I have 1 point I can recall from all the various competition I’ve done (and won in some case), the definitive constant of success was and still is to put all your effort according to the evaluation grid. THIS. This is how you maximize your chance to win.
 
-![Taz Logo](/me/assets/images/taz-logo.png)
+![Taz Logo](/assets/images/taz-logo.png)
 
 We ended up winning the 4000$ prize!! Hope these advice serves you as well as us. Good luck to your future projet. Let me know if you have any other advices.
