@@ -15,4 +15,4 @@ Lencioni presents these dysfunctions as part of a model that is hierarchical, me
 
 ![5DYS](/assets/images/5dys.png)
 
-Vous pouvez en lire plus avec le livre de (Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable)[https://www.amazon.ca/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756] et sur (Youtube)[https://www.youtube.com/watch?v=wHpB1EBufFo&list=PLV5_nOK3lVG1Conu_9RaD3Q0KrnjP25JF]
+Vous pouvez en lire plus avec le livre de [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.ca/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) et sur [Youtube](https://www.youtube.com/watch?v=wHpB1EBufFo&list=PLV5_nOK3lVG1Conu_9RaD3Q0KrnjP25JF)
