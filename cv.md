@@ -4,8 +4,23 @@ title: CV
 description: leader | gestionnaire
 ---
 
--- Expérience --
+Expérience
 ================
+
+![Nexapp Logo](/assets/images/n50.jpg "Nexapp Logo"){:style="float: right;"}Nexapp
+------------
+
+### 2022-2024 (2 ans) **Gestionnaire d’équipe (Engineering Manager) - en poste** ###
+Responsabilités
+-	Responsable du succès des 3 plus gros clients
+-	Gestion de la performance et du développement des employés
+-	Responsable de l'atteinte des objectifs
+
+
+Expériences
+-	Création d'un niveau de gestion (Team Lead) et accompagnement
+-	Mise à jour d'un cadre de développement de carrière
+-	Participer à l'implémentation d'[EOS Traction](https://www.eosworldwide.com/what-is-eos)
 
 ![GSoft Logo](/assets/images/g50.jpg "GSoft Logo"){:style="float: right;"}GSoft
 ------------
