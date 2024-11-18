@@ -7,10 +7,24 @@ description: leader | gestionnaire
 Expérience
 ================
 
+![Amilia Logo](/assets/images/a50.jpg "Amilia Logo"){:style="float: right;"}Amilia
+------------
+
+### 2024-now **Gestionnaire d’équipe (Engineering Manager) - en poste** ###
+Responsabilités
+-	Gestion de la performance et du développement des employés
+-	Responsable de l'atteinte des objectifs
+-	Travail stratégiques sur différents dossiers
+
+
+Expériences
+-	Co-création du test technique pour le recrutement
+-	Mise à jour d'un cadre de développement de carrière
+
 ![Nexapp Logo](/assets/images/n50.jpg "Nexapp Logo"){:style="float: right;"}Nexapp
 ------------
 
-### 2022-2024 (2 ans) **Gestionnaire d’équipe (Engineering Manager) - en poste** ###
+### 2022-2024 (2 ans) **Gestionnaire d’équipe (Engineering Manager)** ###
 Responsabilités
 -	Responsable du succès des 3 plus gros clients
 -	Gestion de la performance et du développement des employés
